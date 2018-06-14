@@ -1,4 +1,7 @@
 # SyllabusRepo
-As requested by Reddit
+As requested by Reddit, I present the SyllabusRepo for /r/iastate
 
-Dump your Syllabi here
+Please try to include a helpful name for your syllabus such as the term the syllabus is from and who was teaching.
+
+
+
